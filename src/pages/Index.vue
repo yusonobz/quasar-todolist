@@ -1,4 +1,5 @@
 <template>
+  <!-- edit from local -->
   <q-page class="flex flex-center">
            <br><br>
         <q-btn color="primary" to="/payroll" label="Go to Payroll Page" />
